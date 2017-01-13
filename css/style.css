@@ -1,0 +1,50 @@
+<style>
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,800|Roboto:300,400,700');
+</style>
+
+
+
+body{
+	padding-top: 50px;
+	font-family:"Roboto" sans-serif;
+	font-weight: 300;
+	font-size: 2em;
+	position: relative;
+}
+
+/*#featured{
+	min-height: 100vh;
+}*/
+
+.navbar-default .navbar-brand {
+    color: orange;
+		font-size: 3em;
+}
+
+h1,h2,h3,h4,h5,h6{
+font-family: "Open Sans";
+font-weight: 100;
+margin: 0;
+}
+
+img {
+	max-width: 200px;
+}
+
+.navbar{
+	border-radius: 0;
+}
+
+footer .navbar-default{
+	background: transparent;
+	border: 0;
+}
+
+.page{
+	padding:50px 0 50px;
+}
+
+.page h2{
+	text-align: center;
+	margin-bottom: 30px;
+}
